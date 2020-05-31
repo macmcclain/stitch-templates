@@ -1,13 +1,6 @@
 {
   "name": "test-vue-3",
-  "version": "0.0.3",
   "private": true,
-  "stitch": {
-    "label": "Test Vue 3",
-    "publish_dir": "dist",
-    "description": "Best microfrontend ever.",
-    "type": "app"
-  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build ",
