@@ -2,8 +2,6 @@
 
 This is a starter template to be used with the Stitch microfrontend framework. 
 
-Requirements
-
 ## Use this template
 
 ```sh
