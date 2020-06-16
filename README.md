@@ -8,4 +8,4 @@ I recommend that you install these via the [Stitch CLI](https://github.com/macmc
 
 [Vuejs Starter](./vuejs-starter)
 
-React Starter - In development
+[React Starter](./react-starter)

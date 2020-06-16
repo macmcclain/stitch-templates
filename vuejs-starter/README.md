@@ -8,12 +8,12 @@ Requirements
 
 ```sh
 # install the Stitch cli if you do not already have it installed.
-$ npm install -g stitch-cli
+$ npm install -g stitch-cli-tool
 ```
 
 ```sh
 # create your app
-$ stitch create vuejs-starter
+$ stitch create --template=vuejs-starter
 ```
 
 ## Run local development
@@ -25,7 +25,7 @@ $ npm run serve
 ## Publish
 ```shell script
 $ npm run build
-$ stitch publish --app=enter-app-host-name-here
+$ stitch publish --server=enter-app-host-name-here
 ```
 
 ## Additional References
