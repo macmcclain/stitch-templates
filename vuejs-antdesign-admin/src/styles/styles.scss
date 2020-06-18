@@ -1,0 +1,36 @@
+.section {
+  margin-top: 20px;
+
+  label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+  }
+}
+.ant-card {
+  margin-top: 20px;
+}
+.toolbar {
+  display: flex;
+  clear: both;
+  justify-content: space-between;
+  align-items: center;
+
+  .title {
+    justify-content: start;
+    display: flex;
+    font-weight: bold;
+  }
+  .buttons {
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+
+  }
+
+}
+
+.mr-2 {
+  margin-right: 10px;
+}
+
