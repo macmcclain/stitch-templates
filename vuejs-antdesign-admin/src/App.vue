@@ -5,12 +5,11 @@
         <div class="logo" />
         <a-menu @select="menuSelect" mode="inline" v-model="selected" style="height: 100%;" >
           <a-menu-item key="home">
-            <a-icon type="search" />
+            <a-icon type="home" />
             <span>Home</span>
           </a-menu-item>
         </a-menu>
       </a-layout-sider>
-
         <a-layout-content >
           <router-view></router-view>
         </a-layout-content>
@@ -24,7 +23,7 @@
     components: { },
     data() {
       return {
-        selected: ["search"]
+        selected: ["home"]
       }
     },
     mounted() {

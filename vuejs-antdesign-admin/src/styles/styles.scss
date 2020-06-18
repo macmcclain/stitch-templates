@@ -25,9 +25,10 @@
     justify-content: flex-end;
     align-items: center;
     display: flex;
-
+    .item {
+      margin-left: 20px;
+    }
   }
-
 }
 
 .mr-2 {
