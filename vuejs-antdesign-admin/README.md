@@ -13,7 +13,7 @@ $ npm install -g stitch-cli-tool
 
 ```sh
 # create your app
-$ stitch create --template=vuejs-starter
+$ stitch create --template=vuejs-antdesign-admin
 ```
 
 ## Run local development

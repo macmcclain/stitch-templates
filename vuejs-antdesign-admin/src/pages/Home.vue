@@ -13,7 +13,7 @@
         <div class="section">
             Section 2
         </div>
-        
+
     </div>
 </template>
 <script>

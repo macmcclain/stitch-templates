@@ -6,6 +6,8 @@ I recommend that you install these via the [Stitch CLI](https://github.com/macmc
 
 ## Available Templates:
 
-[Vuejs Starter](./vuejs-starter)
+[Vuejs Starter](./vuejs-starter/README.md)
 
-[React Starter](./react-starter)
+[Vuejs Ant Design Admin](./vuejs-antdesign-admin/README.md)
+
+[React Starter](./react-starter/README.md)
