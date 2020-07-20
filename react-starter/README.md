@@ -23,7 +23,7 @@ $ npm run start
 ## Publish
 ```shell script
 $ npm run build
-$ stitch publish --server=enter-app-host-name-here
+$ stitch publish --profile=YOURSERVERPROFILE
 ```
 
 ## Additional References
